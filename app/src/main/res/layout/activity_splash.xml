@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    >
+
+
+    <ImageView
+        android:layout_width="@dimen/_150sdp"
+        android:layout_height="@dimen/_150sdp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/sp_icon" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_above="@id/tsub"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sairas_regular"
+            android:text="FF"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_22ssp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sairas_regular"
+            android:text=" Emotes "
+            android:textColor="#FFEB3B"
+            android:textSize="@dimen/_22ssp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sairas_regular"
+            android:text="- Dances "
+            android:textColor="@color/white"
+            android:textSize="@dimen/_22ssp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sairas_regular"
+            android:text=", Skins"
+            android:textColor="#FFEB3B"
+            android:textSize="@dimen/_22ssp"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tsub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="@dimen/_25sdp"
+        android:fontFamily="@font/pop_medium"
+        android:text="Skin Tools application"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16ssp" />
+
+
+
+
+
+</RelativeLayout>

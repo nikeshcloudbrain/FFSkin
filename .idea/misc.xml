@@ -1,0 +1,143 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_basic_cal.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_details.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_dia_sub.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_dia_to_dol.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_diamond_cal_main.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_diamond_character.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_diamond_character_details.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_diamond_option.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_diamond_s1.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_diamond_s2.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_diamond_s3.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_diamond_vehicle.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_diamond_vehicle_details.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_diamond_wallpaper.xml" value="0.29508196721311475" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_diamond_weapone.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_diamond_weapone_details.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_emote_details.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_emote_video.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_famous_skin.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_famous_skin_details.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_fav_video.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_favorite_emote.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_ffdiamond_guide.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_ffire.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_gun_details.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_gun_skin.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_how_use.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_intro_screen.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_joe_emote.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_main.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_main_diamond_guide.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_main_emote.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_main_skin_tool.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_my_emotes.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_pbg_emote.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_perview_emote.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_pro_dress.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_rare_emotes.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_refer.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_splash.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_start.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_sub_skin_tool.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_top_vehicles.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_trending.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_trending_maps.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/activity_view_wallpaper.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/dialog_exit.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/google_native_small_2.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/item_ch.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/item_native_list_ad.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/item_prodress.xml" value="0.14010416666666667" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/item_rare.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/layout_slider_design.xml" value="0.33" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/layout/layout_tool.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/CBX0470NV_FFSkinTools/app/src/main/res/xml/file_paths.xml" value="0.14010416666666667" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/drawable-v24/bg_button.xml" value="0.249" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/drawable/bg_button.xml" value="0.249" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/drawable/blue_border_shape.xml" value="0.2435" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/drawable/button_shape.xml" value="0.2435" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/drawable/ic_box.xml" value="0.2435" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/drawable/lets.xml" value="0.2435" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/drawable/orange_border_shape.xml" value="0.2435" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/drawable/pink_border_shape.xml" value="0.2435" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/drawable/purple_border_shape.xml" value="0.2435" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/drawable/red_border_shape.xml" value="0.2435" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/drawable/yellow_border_shape.xml" value="0.2435" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_basic_cal.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_details.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_dia_sub.xml" value="0.33" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_dia_to_dol.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_diamond_cal_main.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_diamond_character.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_diamond_character_details.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_diamond_option.xml" value="0.33" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_diamond_s1.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_diamond_s2.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_diamond_s3.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_diamond_vehicle.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_diamond_vehicle_details.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_diamond_wallpaper.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_diamond_weapone.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_diamond_weapone_details.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_emote_details.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_emote_main.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_emote_video.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_famous_skin.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_famous_skin_details.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_fav_video.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_favorite_emote.xml" value="0.33" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_ffdiamond_guide.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_ffire.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_gun_details.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_gun_skin.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_how_use.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_intro_screen.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_joe_emote.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_main.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_main_diamond_guide.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_main_emote.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_main_emotes.xml" value="0.33" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_main_skin_tool.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_map_details.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_my_emotes.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_pbg_emote.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_perview_emote.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_pro_dress.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_rare_emotes.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_refer.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_splash.xml" value="0.30104166666666665" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_start.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_sub_skin_tool.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_top_vehicles.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_trending.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_trending_maps.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/activity_view_wallpaper.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/dialog_exit.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/dialog_update.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/google_native.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/google_native_fix.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/google_native_small_2.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/item_ch.xml" value="0.23828125" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/item_emote.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/item_native_list_ad.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/item_prodress.xml" value="0.3177083333333333" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/item_rare.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/item_row.xml" value="0.33" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/layout_loding.xml" value="0.3177083333333333" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/layout_slider_design.xml" value="0.31875" />
+        <entry key="..\:/Nikesh Project/AndroidMainProject/NewFFSkinTool/app/src/main/res/layout/layout_tool.xml" value="0.31875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

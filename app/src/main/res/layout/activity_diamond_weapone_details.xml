@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".diamond.weapone.DiamondWeaponeDetailsActivity">
+<include layout="@layout/layout_tool"
+    android:id="@+id/tool"/>
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tool"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/wIcon"
+                android:src="@drawable/ic_an94"/>
+            <TextView
+                android:id="@+id/wDes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/app_name"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:fontFamily="@font/pop_semibold"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_12ssp"
+                />
+
+
+
+            <TextView
+                android:id="@+id/btnApply"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Apply Now"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:fontFamily="@font/pop_semibold"
+                android:textAlignment="center"
+                android:background="@drawable/yellow_border_shape"
+                android:layout_margin="@dimen/_10sdp"
+                android:padding="@dimen/_10sdp"/>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewAdsMain"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_3sdp"
+                app:cardCornerRadius="@dimen/_5sdp"
+                app:cardElevation="@dimen/_3sdp">
+
+                <FrameLayout
+                    android:id="@+id/frameViewAdsMain"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone" />
+
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</RelativeLayout>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.fffemote.dances.skins.ffdiamond">
+
+    <uses-permission android:name="android.permission.INTERNET " />
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".BaseApplication"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NewFFSkinTool"
+        tools:targetApi="31">
+
+
+        <activity
+            android:name=".favourite.FavoriteEmoteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".favourite.FavVideoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".wallpaper.ViewWallpaperActivity"
+            android:exported="false" />
+        <activity
+            android:name=".wallpaper.DiamondWallpaperActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamondCal.BasicCalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamondCal.NormalCalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamondCal.DiaSubActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamondCal.DiaToDolActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamondCal.DiamondCalMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Emotes.JoeEmoteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Emotes.PbgEmoteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Emotes.EmoteVideoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Emotes.FfireActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.DetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.EmoteDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.GunDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.TrendingMapsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamond.DiamondOptionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamond.vehicle.DiamondVehicleDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamond.vehicle.DiamondVehicleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamond.character.DiamondCharacterDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamond.character.DiamondCharacterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamond.weapone.DiamondWeaponeDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamond.weapone.DiamondWeaponeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamond.MainDiamondGuideActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamond.FFDiamondGuideActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Emotes.MainEmoteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.TopVehiclesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.FamousSkinDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.FamousSkinActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.MyEmotesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.TrendingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.ReferActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.GunSkinActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.RareEmotesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".diamond.DiamondS3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".diamond.DiamondS2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".diamond.DiamondS1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.ProDressActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.HowUseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.SubSkinToolActivity"
+            android:exported="false" />
+        <activity
+            android:name=".skinTool.MainSkinToolActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IntroScreenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713" />
+
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="5TbXhqzZrcWQcRd0EeGKdqCLu6teonvUwziRNSev7fbkTeQsRZp76AP6sTxz7CbgO2ksVo_M19SV3TvuGL6qcl" />
+    </application>
+
+</manifest>

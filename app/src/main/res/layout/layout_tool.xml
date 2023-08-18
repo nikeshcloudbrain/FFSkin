@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/icBack"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_marginStart="@dimen/_2sdp"
+        android:padding="@dimen/_6sdp"
+        android:src="@drawable/back" />
+
+    <TextView
+        android:id="@+id/Ttext"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_19sdp"
+        android:layout_centerInParent="true"
+        android:fontFamily="@font/pop_medium"
+        android:text="@string/app_name"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_15ssp" />
+</RelativeLayout>
